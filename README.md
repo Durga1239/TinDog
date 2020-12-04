@@ -1,6 +1,8 @@
 # TinDog
 Its a Tinder for Dogs!
-A website made as part of learning Web Development from Udemy.
-
 Website URL :- https://phungxuanton.github.io/tindog/#cta
-(Chrome Recommended)
+TOLLS ad LANGUAGE USE
+HTML5
+Css3
+Bootstrap4
+Fontawesome
